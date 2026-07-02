@@ -1,2 +1,3 @@
-# ml-17-1-med-buddy-ml
-This is the code repo for **MedBuddy.ML** designed for Heart Disease Prediction using Machine Learning.
+# Heart-Disease-Prediction-System
+
+This is the code repository for a Heart Disease Prediction System using Machine Learning.
